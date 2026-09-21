@@ -150,10 +150,10 @@ and scalable backend services using the modern **TypeScript ecosystem** (React, 
 | | |
 | :--- | :--- |
 | 🌐 **Portfolio** | [mujdeveloper.netlify.app](https://mujdeveloper.netlify.app) |
-| 💼 **LinkedIn** | [linkedin.com/in/mucahid-e](https://linkedin.com/in/mucahid-e) |
+| 💼 **LinkedIn** | [linkedin.com/in/mucahid-tech](https://linkedin.com/in/mucahid-tech) |
 | 🐙 **GitHub** | [github.com/MucahidTech](https://github.com/MucahidTech) |
 | ✉️ **Email** | [mucahid.tech@gmail.com](mailto:mucahid.tech@gmail.com) |
-| 📞 **Phone** | [+90 534 220 0592](tel:+905342200592) |
+| 📞 **WhatsApp** | [+90 534 220 0592](https://wa.me/905342200592) |
 
 </div>
 
